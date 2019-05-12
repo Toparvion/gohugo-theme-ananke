@@ -1,0 +1,17 @@
+[more]
+other = "Предыдущие"
+
+[allTitle]
+other = "Все очерки"
+
+[recentTitle]
+other = "Последние очерки"
+
+[readMore]
+other = "Читать дальше"
+
+[whatsInThis]
+other = "Что в этом {{ .Type }}"
+
+[related]
+other = "Схожие очерки"
