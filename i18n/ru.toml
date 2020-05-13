@@ -1,20 +1,34 @@
 [more]
-other = "Другие очерки"
+other = "Ещё"
 
 [allTitle]
-other = "Все очерки"
+other = "Все {{.Title }}"
 
 [recentTitle]
-other = "Последние очерки"
+other = "Недавние {{.Title }}"
 
 [readMore]
-other = "Читать дальше"
+other = "читать дальше"
 
 [whatsInThis]
-other = "Что в этом {{ .Type }}"
+other = "Содержание {{ .Type }}"
 
 [related]
-other = "Очерки по схожим темам"
+other = "Схожие {{.Title }}"
 
+[yourName]
+other = "Ваше имя"
+
+[emailAddress]
+other = "Адрес электронной почты"
+
+[message]
+other = "Сообщение"
+
+[emailRequiredNote]
+other = "Требуется адрес электронной почты."
+
+[send]
+other = "Отправить"
 [taxonomy]
-other = "Ниже приведены очерки, в которых упоминается тема “{{ .Title }}”."
+other = "Ниже приведены {{ .Type }} с темой “{{ .Title }}”."

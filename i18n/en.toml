@@ -15,6 +15,19 @@ other = "What's in this {{ .Type }}"
 
 [related]
 other = "Related"
-
 [taxonomy]
 other = "Below you will find pages that utilize the taxonomy term '{{ .Title }}'"
+[yourName]
+other = "Your Name"
+
+[emailAddress]
+other = "Email Address"
+
+[message]
+other = "Message"
+
+[emailRequiredNote]
+other = "An email address is required."
+
+[send]
+other = "Send"

@@ -1,4 +1,4 @@
-.facebook, .twitter, .instagram, .youtube, .github, .gitlab, .linkedin, .medium, .mastodon, .strava {
+.facebook, .twitter, .instagram, .youtube, .github, .gitlab, .keybase, .linkedin, .medium, .mastodon, .slack, .stackoverflow, .strava {
   fill: #BABABA;
 }
 
@@ -35,6 +35,10 @@
   fill: #FC6D26;
 }
 
+.keybase:hover {
+  fill: #3d76ff;
+}
+
 .linkedin:hover {
   fill: #0077b5
 }
@@ -47,6 +51,13 @@
   fill: #3088d4;
 }
 
+.slack:hover {
+  fill: #E01E5A;
+}
+
+.stackoverflow:hover {
+  fill: #f48024;
+}
 .strava:hover {
   fill: #fc4c02;
 }
